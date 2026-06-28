@@ -1,4 +1,4 @@
-# # Part 4: Tableau Executive Dashboard & Data Storytelling
+# Part 4: Tableau Executive Dashboard & Data Storytelling
 
 ## Business Problem
 The leadership team of a retail chain needed an executive dashboard to monitor sales performance, profitability, category performance, shipping efficiency, discount impact, and return patterns across regions and customer segments.
